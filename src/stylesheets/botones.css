@@ -1,0 +1,29 @@
+button {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+    border-radius: 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+.boton-click:hover {
+    background-color: rgb(160, 160, 160);
+}
+
+.boton-click {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+}
+
+.boton-reiniciar:hover{
+    background-color:#64261a;
+}
+
+.boton-reiniciar {
+    width: 120px;
+    height: 70px;
+    color: aliceblue;
+    background-color: #b41e00;
+}
